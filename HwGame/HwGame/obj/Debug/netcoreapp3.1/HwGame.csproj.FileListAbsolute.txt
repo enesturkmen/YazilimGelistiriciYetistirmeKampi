@@ -1,0 +1,13 @@
+C:\Users\enest\source\repos\HwGame\HwGame\bin\Debug\netcoreapp3.1\HwGame.exe
+C:\Users\enest\source\repos\HwGame\HwGame\bin\Debug\netcoreapp3.1\HwGame.deps.json
+C:\Users\enest\source\repos\HwGame\HwGame\bin\Debug\netcoreapp3.1\HwGame.runtimeconfig.json
+C:\Users\enest\source\repos\HwGame\HwGame\bin\Debug\netcoreapp3.1\HwGame.runtimeconfig.dev.json
+C:\Users\enest\source\repos\HwGame\HwGame\bin\Debug\netcoreapp3.1\HwGame.dll
+C:\Users\enest\source\repos\HwGame\HwGame\bin\Debug\netcoreapp3.1\HwGame.pdb
+C:\Users\enest\source\repos\HwGame\HwGame\obj\Debug\netcoreapp3.1\HwGame.csprojAssemblyReference.cache
+C:\Users\enest\source\repos\HwGame\HwGame\obj\Debug\netcoreapp3.1\HwGame.AssemblyInfoInputs.cache
+C:\Users\enest\source\repos\HwGame\HwGame\obj\Debug\netcoreapp3.1\HwGame.AssemblyInfo.cs
+C:\Users\enest\source\repos\HwGame\HwGame\obj\Debug\netcoreapp3.1\HwGame.csproj.CoreCompileInputs.cache
+C:\Users\enest\source\repos\HwGame\HwGame\obj\Debug\netcoreapp3.1\HwGame.dll
+C:\Users\enest\source\repos\HwGame\HwGame\obj\Debug\netcoreapp3.1\HwGame.pdb
+C:\Users\enest\source\repos\HwGame\HwGame\obj\Debug\netcoreapp3.1\HwGame.genruntimeconfig.cache
