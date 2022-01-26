@@ -6,6 +6,8 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+            //Dont repeat yourself - DRY - Clean Code - Best Practice
+
             Product product1 = new Product();
             product1.Name = "Apple";
             product1.Price = 15;
