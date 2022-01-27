@@ -14,5 +14,10 @@ namespace OOP1
         {
             Console.WriteLine(product.ProductName + " guncellendi");
         }
+
+        public void Delete(Product product)
+        {
+            Console.WriteLine(product.ProductName + " deleted.");
+        }
     }
 }

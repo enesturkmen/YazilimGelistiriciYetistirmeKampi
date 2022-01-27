@@ -26,11 +26,15 @@ namespace Methods
             }
             Console.WriteLine("-----------METHODS------------");
 
+            //instance
+            //cw = console.writeline -- prop = property getter setter yazar
             SepetManager sepetManager = new SepetManager();
 
             sepetManager.Add(product1);
             sepetManager.Add(product2);
             sepetManager.Add2("Lemon", "Mersin Lemon", 15, 50);
+
+            sepetManager.Remove(product1);
 
         }
     }

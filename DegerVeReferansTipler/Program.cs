@@ -20,6 +20,10 @@ namespace DegerVeReferansTipler
             numbers2[0] = 999;
 
             Console.WriteLine(numbers1[0]);
+            // int, float, decimal, double, bool = value type
+            // array, class, interface = reference type
+            // deger tiplerde degere referans tiplerde adrese atama oluyor!!
+
         }
     }
 }

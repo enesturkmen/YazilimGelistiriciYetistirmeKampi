@@ -16,5 +16,10 @@ namespace Methods
         {
             Console.WriteLine("Tebrikler. Sepete eklendi! : " + productName);
         }
+        public void Remove(Product product) { 
+            
+            Console.WriteLine("Urun basariyla kaldirildi!");
+        
+        }
     }
 }
