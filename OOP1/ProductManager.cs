@@ -6,15 +6,15 @@ namespace OOP1
 {
     class ProductManager
     {
+        //Entity
         public void Add(Product product)
         {
             Console.WriteLine(product.ProductName + " eklendi");
         }
-        public void Update()
+        public void Update(Product product)
         {
             Console.WriteLine(product.ProductName + " guncellendi");
         }
-
         public void Delete(Product product)
         {
             Console.WriteLine(product.ProductName + " deleted.");
