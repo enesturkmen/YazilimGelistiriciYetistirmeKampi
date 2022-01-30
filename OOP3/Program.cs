@@ -10,13 +10,15 @@ namespace OOP3
             ILoanManager personalFinanceLoan = new PersonalFinanceLoan();
             ILoanManager vehicleLoanManager = new VehicleLoanManager();
             ILoanManager housingLoanManager = new HousingLoanManager();
+            ILoanManager tradesmanLoanManager = new TradesmanLoanManager();
 
             ILoggerService databaseLoggerService = new DatabaseLoggerService();
             //veya 22. satir virgulden sonrasi gibi de yazabilirsin
             ILoggerService fileLoggerService = new FileLoggerService();
+            ILoggerService smsLoggerService = new SmsLoggerService();
 
             RecourseManager recourseManager = new RecourseManager();
-            recourseManager.MakeRecourse(personalFinanceLoan, fileLoggerService);
+            recourseManager.MakeRecourse(tradesmanLoanManager, smsLoggerService);
 
             List<ILoanManager> loans = new List<ILoanManager>() {personalFinanceLoan, 
                 vehicleLoanManager };

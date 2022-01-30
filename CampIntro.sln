@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{19EBE752-11D2-4001-8693-76B522A1E9B2}"
 EndProject
@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{ED508999-F99C-41F6-B26D-2F33392C1854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqReview", "LinqReview\LinqReview.csproj", "{86B4E783-CACE-44A5-85BB-6B8FF857207A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqReview", "LinqReview\LinqReview.csproj", "{86B4E783-CACE-44A5-85BB-6B8FF857207A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{517145DA-B8F9-482C-ADAE-8A5B80A766CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{86B4E783-CACE-44A5-85BB-6B8FF857207A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86B4E783-CACE-44A5-85BB-6B8FF857207A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86B4E783-CACE-44A5-85BB-6B8FF857207A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517145DA-B8F9-482C-ADAE-8A5B80A766CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517145DA-B8F9-482C-ADAE-8A5B80A766CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517145DA-B8F9-482C-ADAE-8A5B80A766CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517145DA-B8F9-482C-ADAE-8A5B80A766CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

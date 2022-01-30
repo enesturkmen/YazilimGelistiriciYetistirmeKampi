@@ -18,6 +18,9 @@ namespace OOP1
         public void Delete(Product product)
         {
             Console.WriteLine(product.ProductName + " deleted.");
+            
         }
+        //CRUD  Create   Read   Update   Delete
+        //Urunle ilgili operasyonlar Manager sinifinda olur
     }
 }
